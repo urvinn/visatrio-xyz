@@ -88,19 +88,19 @@
 }
 
 .countdown div#day:before {
-    content: 'Days';
+    content: 'HARI';
 }
 
 .countdown div#hour:before {
-    content: 'Hours';
+    content: 'JAM';
 }
 
 .countdown div#minute:before {
-    content: 'Minutes';
+    content: 'MENIT';
 }
 
 .countdown div#second:before {
-    content: 'Seconds';
+    content: 'DETIK';
 }
 
 .countdown div#second,
